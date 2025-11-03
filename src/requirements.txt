@@ -1,4 +1,5 @@
 antlr4-python3-runtime==4.9.3
+audiomentations==0.43.1
 audioread==3.1.0
 audioseal==0.1.8
 certifi==2025.10.5
@@ -26,6 +27,8 @@ msgpack==1.1.2
 networkx==3.5
 numba==0.62.1
 numpy==2.3.4
+numpy-minmax==0.5.0
+numpy-rms==0.6.0
 nvidia-cublas-cu12==12.8.4.1
 nvidia-cuda-cupti-cu12==12.8.90
 nvidia-cuda-nvrtc-cu12==12.8.93
@@ -51,6 +54,7 @@ pycparser==2.23
 pydub==0.25.1
 pyparsing==3.2.5
 python-dateutil==2.9.0.post0
+python-stretch==0.3.1
 pytz==2025.2
 PyYAML==6.0.3
 requests==2.32.5
@@ -59,7 +63,7 @@ scikit-learn==1.7.2
 scipy==1.16.2
 six==1.17.0
 soundfile==0.13.1
-soxr==1.0.0
+soxr==0.5.0.post1
 sympy==1.14.0
 threadpoolctl==3.6.0
 torch==2.9.0
