@@ -53,6 +53,7 @@ cover/
 
 #Dataset
 src/dataset/
+Testing/Soham-Testing/Audio_files/
 # Translations
 *.mo
 *.pot
