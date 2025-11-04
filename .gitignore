@@ -54,6 +54,7 @@ cover/
 #Dataset
 src/dataset/
 Testing/Soham-Testing/Audio_files/
+Testing/Connor-Testing/samples/
 # Translations
 *.mo
 *.pot
