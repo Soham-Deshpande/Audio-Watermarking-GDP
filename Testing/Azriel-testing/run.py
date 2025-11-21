@@ -12,7 +12,7 @@ sys.path.append(root_dir)
 # Import your new modules 
 from attack import PsychoacousticPGD
 try:
-    from functions import signalToNoise # Importing Soham's helper
+    from functions import signalToNoise
 except ImportError:
     print("Warning: functions.py not found. Skipping SNR calculation.")
 
@@ -61,3 +61,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
